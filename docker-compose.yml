@@ -3,4 +3,4 @@ sepveces:
   rubyitea2:
     image: akush347/lesson2
     envoroment:
-      TEXT: "ITEA Lesson3"
+      TEXT1: "ITEA Lesson3"
