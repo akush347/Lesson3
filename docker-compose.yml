@@ -1,0 +1,6 @@
+version:"2.1"
+sepveces:
+  rubyitea2:
+    image: akush347/lesson2
+    envoroment:
+      TEXT1: "ITEA Lesson3"
